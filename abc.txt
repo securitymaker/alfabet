@@ -1,7 +1,7 @@
 ﻿Andra bullar bjuds det på hos Alexanders pappa
 b
 c
-D
+dana changed denna rad
 e
 f
 G
@@ -15,7 +15,7 @@ N
 o
 p
 Que cosa?
-r
+Rossang is Gitmaster
 s
 T
 U
