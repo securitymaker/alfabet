@@ -1,1 +1,3 @@
-puts "It's running!"
+def printHello
+	puts "It's running!"
+end
