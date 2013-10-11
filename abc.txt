@@ -1,10 +1,10 @@
 Alfabetet
 
 Andra bullar bjuds det på hos Alexanders pappa
-b
+B
 c
 dana changed denna rad
-e
+E
 f
 G
 h
@@ -14,7 +14,7 @@ k
 lite läskigt
 M
 N
-o
+O
 p
 Que cosa?
 Rossang is Gitmaster
@@ -27,4 +27,4 @@ y
 Zimmerman har flytt från landet med miljonerna
 Å
 Ä
-ö
+Ö
